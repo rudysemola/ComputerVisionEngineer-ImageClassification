@@ -1,5 +1,5 @@
 # Computer Vision Engineering -Image Classification
 Computer Vision Engineering: first loop
 - Exploratory analysis
-- Image Classification on PlantDoc dataset using Deep CNN Learning model
+- Image Classification on plant datasets using Deep CNN Learning model
  
